@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Models and large files
+*.keras
+*.h5
+*.zip
+*.json
+Models/
+Data/
+datasets/
+
+# Gradio cache
+.gradio/
