@@ -12,11 +12,8 @@ env/
 .env
 
 # Models and large files
-*.keras
 *.h5
 *.zip
-*.json
-Models/
 Data/
 datasets/
 
