@@ -89,3 +89,6 @@ To retrain the networks from scratch using Kaggle's dual GPU capabilities:
 2. Add the official [Oral Diseases Dataset](https://www.kaggle.com/datasets/salmansajid05/oral-diseases) to your workspace.
 3. In the right-side panel, set the Accelerator to **GPU T4 x2**.
 4. Run all cells. The script automatically utilizes mixed-precision and distributed training.
+
+---
+*🎓 Developed by Mostafa Abdallah - 2026*
